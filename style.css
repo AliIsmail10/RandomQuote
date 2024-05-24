@@ -1,0 +1,19 @@
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+
+}
+.container{
+    text-align: center;
+}
+.container p{
+    font-size: 35px;
+}
+.container button{
+    padding: 30px 80px;
+    background-color: blue;
+}
+.container button:hover{
+    background-color: green;
+}
